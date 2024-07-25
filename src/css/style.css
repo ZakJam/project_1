@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'Figtree';
-    src: url('/src/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
+    src: url(src\assets\fonts\Figtree-VariableFont_wght.ttf) format('truetype');
     font-weight: 100 900;
     font-style: normal;
 }
@@ -182,7 +182,7 @@ h1 {
     .second_ctr h1:hover {
 
         color: #F4D04E;
-        cursor: url(\src\assets\images\icons8-pointer.svg), pointer;
+        cursor: url(src\assets\images\icons8-pointer.svg), pointer;
     }
 
     .second_ctr button:hover {
