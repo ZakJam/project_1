@@ -92,6 +92,7 @@ body {
     font-family: 'Figtree', sans-serif;
     font-weight: 800;
     font-size: clamp(12px, 4vw, 16px);
+    cursor: pointer;
 }
 
 
@@ -183,6 +184,12 @@ p,h1 {
         cursor: url(/src/assets/images/icons8-pointer.svg), pointer;
     }
 
+    .second_ctr button:hover {
+    
+        background-color: #ffd43888;
+
+    }
+    
 
 }
 
