@@ -96,7 +96,8 @@ body {
 }
 
 
-p,h1 {
+p,
+h1 {
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -185,16 +186,10 @@ p,h1 {
     }
 
     .second_ctr button:hover {
-    
+
         background-color: #ffd43888;
 
     }
-    
+
 
 }
-
-
-
-
-
-
