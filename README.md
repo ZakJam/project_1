@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](<../src/assets/images/Screenshot 2024-07-25 211328.png>)
+![alt text](<src/assets/images/Screenshot 2024-07-25 211328.png>)
 
 
 ### Links
